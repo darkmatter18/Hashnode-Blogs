@@ -1,6 +1,8 @@
 ## What is Docker? Beginner friendly
 
 ## Software Development Lifecycle
+Before learning about Docker, let's discuss Little bit about Software Development Lifecycle to understand the need and position of Docker in Software Developer 
+
 Software Development can be divided into mostly 2 parts. One is Development, another one is Operations.
 
 - Development mostly has writing Code, testing the Code, and also debugging it.
