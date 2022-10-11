@@ -1,1 +1,170 @@
-IyMgUHl0aG9uIERhdGUgVGltZSBTdHJpbmcgRm9ybWF0CgojIyBJbnRyb2R1Y3Rpb24KCkRhdGUgYW5kIHRpbWUgYXJlIHR3byBvZiB0aGUgbW9zdCB1c2VmdWwgeWV0IGNvbmZ1c2luZyB0aGluZ3MgaW4gcHJvZ3JhbW1pbmcgbGlmZS4gRGF0ZSB0aW1lIHN0b3JhZ2UgYW5kIHJldHJpZXZhbCByZXF1aXJlZCBhIGNvbW1vbiB3ZWxsLWRlY2lkZWQgcHJvdG9jb2wuIFRpbWV6b25lIGNvbnZlcnNpb24gaXMgYWxzbyBvbmUgb2YgdGhlIG1vc3QgY2hhbGxlbmdpbmcgdGFza3MuIFRoYXQncyB3aHkgd2hpbGUgd29ya2luZyB3aXRoIERhdGUgYW5kIFRpbWUsIGRldmVsb3BlcnMgc2hvdWxkIGJlIGV4dHJhIGN1cmlvdXMuIFdoZW4gaXQgY29tZXMgdG8gd29ya2luZyB3aXRoIGRhdGUgYW5kIHRpbWUsIFB5dGhvbidzIGBkYXRldGltZWAgbGlicmFyeSBpcyB0aGUgbW9zdCByZWxpYWJsZSBvbmUuIFRoZSAqKkRhdGV0aW1lKiogbGlicmFyeSB0cmllcyB0byBzb2x2ZSBhbGwgdGhlIHByb2JsZW1zIHRvIGEgbGFyZ2UgZXh0ZW50LiBTbyB0aGF0J3Mgd2h5IGRldmVsb3BlcnMgbG92ZSB0byB1c2UgaXQuCgpXaGlsZSBjcmVhdGluZyBhIHVzZXItb3JpZW50ZWQgYXBwbGljYXRpb24sIG9uZSBvZiB0aGUgbW9zdCBjb21tb24gdGFza3MgaXMgdG8gY3JlYXRlIGEgd2VsbC1mb3JtYXR0ZWQgRGF0ZS10aW1lIHN0cmluZy4gRXhhbXBsZTogYEZyaWRheSwgNyBPY3RvYmVyIDIwMjJgLiAKCkFub3RoZXIgdXNlZnVsIHRhc2sgaXMgdG8gY29udmVydCB0aGUgRGF0ZS10aW1lIHN0cmluZyBpbnRvIGEgW2BkYXRldGltZSBvYmplY3RgXShodHRwczovL2RvY3MucHl0aG9uLm9yZy8zL2xpYnJhcnkvZGF0ZXRpbWUuaHRtbCkgc28gdGhhdCB3ZSBjYW4gdXNlIHRoYXQgb2JqZWN0IHdpdGggdGhlIHJlc3Qgb2YgdGhlIHByb2dyYW0uCgojIyBEYXRldGltZSBvYmplY3QKClB5dGhvbidzIERhdGV0aW1lIE9iamVjdCBpcyBhbiBvYmplY3Qgd2hpY2ggc3RvcmVzIGluZm9ybWF0aW9uIG9uIGEgcGFydGljdWxhciBkYXRlIGFuZCB0aW1lLiBJdCBzdG9yZXMgYGRheWAsIGBtb250aGAsIGB5ZWFyYCwgYGhvdXJgLCBgbWludXRlYCwgYHNlY29uZGAsIGFuZCBgdGltZXpvbmVgIGluZm9ybWF0aW9uIGFzIHBhcmFtZXRlcnMuIFRoZSBvYmplY3QgaGFzIHZhcmlvdXMgbWV0aG9kcyB0byBkbyBhbG1vc3QgZXZlcnl0aGluZyBwb3NzaWJsZS4KClRoZSBzY29wZSBvZiB0aGlzIGJsb2cgaXMgdGhlIGZvcm1hdHRpbmcgb2YgdGhlIGRhdGUtdGltZSBvYmplY3QsIGJ1dCBub3QgdGhlIGRlc2NyaXB0aW9uIG9mIHRoZSBvYmplY3QgaXRzZWxmLiBTbyBpZiB5b3Ugd2FudCB0byBrbm93IG1vcmUsIEkgYW0gYWRkaW5nIHNvbWUgcmVmZXJlbmNlcy4KCi0gaHR0cHM6Ly9kb2NzLnB5dGhvbi5vcmcvMy9saWJyYXJ5L2RhdGV0aW1lLmh0bWwKLSBodHRwczovL3d3dy5nZWVrc2ZvcmdlZWtzLm9yZy9weXRob24tZGF0ZXRpbWUtbW9kdWxlLwoKCiMjIENvbnZlcnNpb24gb2YgdXNlci1naXZlbiBTdHJpbmcgdG8gUHl0aG9uJ3MgRGF0ZXRpbWUgT2JqZWN0CgpPZnRlbiB0aW1lLCB3aGVuIHVzZXJzIGdpdmUgYSBkYXRlIG9yIHRpbWUgaW5wdXQsIHRoZXkgb2Z0ZW4gdXNlIHRoZSBzcGVjaWZpZWQgZm9ybWF0IGJ5IHRoZSBhcHAuIFNvbWUgY29tbW9uIGZvcm1hdHMgYXJlICBgREQvTU0vWVlZWWAsIGBNTS9ERC9ZWVlZYCwgYW5kIGBISDpNTTpTU2AsIGxpa2Ugc28uIE5vdywgaXQncyB0aGUgcmVzcG9uc2liaWxpdHkgb2YgdGhlIGRldmVsb3BlciB0byBjb252ZXJ0IHRoZSBnaXZlbiBzdHJpbmcgdG8gYSBtb3JlIHVzZWZ1bCBvYmplY3QuCgpUbyBjb252ZXJ0IHVzZXIgZ2l2ZW4gc3RyaW5nIHRvIGEgZGF0ZXRpbWUgb2JqZWN0IHdlIHVzZSAqKmBzdHJwdGltZWAqKi4KCiMjIyBzdHJwdGltZQoKYGBgcHl0aG9uCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgpkYXRldGltZS5zdHJwdGltZShkYXRlX3N0cmluZywgZm9ybWF0X3N0cmluZykgLT4gRGF0ZXRpbWUKYGBgCgpIZXJlLCBgZGF0ZV9zdHJpbmdgIGlzIHRoZSBpbnB1dCBmcm9tIHRoZSB1c2VyLCBhbmQgYGZvcm1hdF9zdHJpbmdgIGlzIHRoZSBleHBlY3RlZCBmb3JtYXQsIGluIHdoaWNoIHRoZSB1c2VyIGhhcyBnaXZlbiB0aGUgYGRhdGVfc3RyaW5nYC4gVGhlIGBmb3JtYXRfc3RyaW5nYCBoYXMgdGhlIGZvcm1hdCBzcGVjaWZpZXJzLCB3aGljaCB3aWxsIGJlIHVzZWQgdG8gZXh0cmFjdCB0aGUgdmFsdWVzIGZyb20gdGhlIGBkYXRlX3N0cmluZ2AuCgpFeGFtcGxlOgpgYGBweXRob24KZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUKCmRhdGV0aW1lLnN0cnB0aW1lKCIwNy8xMC8yMDIyIiwgIiVkLyVtLyVZIikKIyBkYXRldGltZS5kYXRldGltZSgyMDIyLCAxMCwgNywgMCwgMCkKYGBgCgojIyMgRXhwbGFpbmF0aW9uCgpUaGUgZGF0ZV9zdHJpbmcgKGAwNy8xMC8yMDIyYCkgaXMgbWFwcGVkIHdpdGggdGhlIGZvcm1hdCBzdHJpbmcgKGAlZC8lbS8lWWApLgoKfCBEYXRlIHN0cmluZyB2YWx1ZSB8IEZvcm1hdCBzdHJpbmcgdmFsdWUgfCBFeHBsYW5hdGlvbiB8CnwtLS0tLS0tLS0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tfAp8ICoqMDcqKiAgICAgICAgICAgICAgICAgfGAlZGAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBgJWRgIGlzIHRoZSBmb3JtYXQgc3BlY2lmaWVyIGZvciBEYXksIHNvIDA3IGlzIGNvbnNpZGVyZWQgYXMgdGhlIGRheSB8CnwgKiovKiogICAgICAgICAgICAgICAgICAgIHwgYC9gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgSWdub3JlZCwgYXMgbm90IGEgZm9ybWF0IHNwZWNpZmllciB8CnwgKioxMCoqICAgICAgICAgICAgICAgICB8IGAlbWAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgYCVtYCBpcyB0aGUgZm9ybWF0IHNwZWNpZmllciBmb3IgTW9udGgsIHNvIDEwIGlzIGNvbnNpZGVyZWQgYXMgdGhlIE1vbnRoIHwKfCAqKi8qKiAgICAgICAgICAgICAgICAgICAgfCBgL2AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBJZ25vcmVkLCBhcyBub3QgYSBmb3JtYXQgc3BlY2lmaWVyIHwKfCAqKjIwMjIqKiAgICAgICAgICAgICB8IGAlWWAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgYCVZYCBpcyB0aGUgZm9ybWF0IHNwZWNpZmllciBmb3IgTG9uZyBZZWFyLCBzbyAyMDIyIGlzIGNvbnNpZGVyZWQgYXMgdGhlIFllYXIgfAoKU2VlIHRoZSBGb3JtYXQgbGlzdCBbYmVsb3ddKCNmb3JtYXQtbGlzdCkuCgojIyBDb252ZXJzaW9uIERhdGV0aW1lIE9iamVjdCB0byB1c2VyLXJlYWRhYmxlIHN0cmluZwoKTm93IHRoYXQsIHlvdSBoYXZlIGEgbmV3IGBkYXRldGltZSBvYmplY3RgIGFuZCB5b3UgaGF2ZSBkb25lIHNvbWUgb3BlcmF0aW9ucyB3aXRoIHRoYXQsIHlvdSBuZWVkIHRvIHByb3Blcmx5IGZvcm1hdCBpdCB0byBzdHJpbmcgc28gdGhhdCB1c2VycyBjYW4gdW5kZXJzdGFuZCBpdCB2ZXJ5IHdlbGwuIFNvIG5vdyBvdXIgdGFzayBpcyB0byBjb252ZXJ0IHRoZSBvYmplY3QgdG8gYSBzdHJpbmcuCgpUbyBjb252ZXJ0IGEgZGF0ZXRpbWUgb2JqZWN0IHRvIGEgc3RyaW5nLCB3ZSB1c2UgKipgc3RyZnRpbWVgKiouCgojIyMgc3RyZnRpbWUKCmBgYHB5dGhvbgojIE1ldGhvZCAxCmRhdGV0aW1lX29iamVjdC5zdHJmdGltZShmb3JtYXRfc3RyaW5nKSAtPiBmb3JtYXR0ZWRfc3RyaW5nCgojIE1ldGhvZCAyCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCmRhdGV0aW1lLnN0cmZ0aW1lKERhdGV0aW1lLCBmb3JtYXRfc3RyaW5nKSAtPiBmb3JtYXR0ZWRfc3RyaW5nCmBgYAoKLSBJbiBgTWV0aG9kIDFgLCB3ZSB1c2UgYHN0cmZ0aW1lYCBhcyBhIG1ldGhvZCBjYWxsIHRvIHRoZSBkYXRldGltZSBvYmplY3QgYW5kIHBhc3MgdGhlICBmb3JtYXRfc3RyaW5nIGFzIGEgcGFyYW1ldGVyLgoKLSBJbiBgTWV0aG9kIDJgLCB3ZSBhcmUgZGlyZWN0bHkgY2FsbGluZyB0aGUgYHN0cmZ0aW1lYCBhcyBhIGZ1bmN0aW9uIGFuZCBwYXNzaW5nIHRoZSBkYXRldGltZSBvYmplY3QgYXMgdGhlIGZpcnN0IHBhcmFtLCBhbmQgZm9ybWF0X3N0cmluZyBhcyB0aGUgc2Vjb25kIHBhcmFtLgoKRm9yIGJvdGggY2FzZXMsIGl0J2xsIHJldHVybiBhIGBmb3JtYXR0ZWQgZGF0ZSBhbmQgdGltZSBzdHJpbmdgLgoKRXhhbXBsZToKYGBgcHl0aG9uCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGV0aW1lCgpkYXRldGltZS5ub3coKS5zdHJmdGltZSgiJWQvJW0vJVkiKQojICcwNy8xMC8yMDIyJyAoY3VycmVudCBkYXRlIGluIHRoZSBhYm92ZSBmb3JtYXQpCmBgYAoKIyMgRm9ybWF0IFNwZWNpZmllcnMgTGlzdAoKQmVsb3cgdGhlcmUgYXJlIGFsbCBmb3JtYXQgc3BlY2lmaWVycyB1c2VkIHdoaWxlIGZvcm1hdHRpbmcuIFRoZSBmb3JtYXQgc3BlY2lmaWVzIGFyZSBncm91cGVkIGJ5IHRoZWlyIHR5cGVzLgoKIyMjIFdlZWtkYXkKCnwgRGlyZWN0aXZlIHwgTWVhbmluZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgRXhhbXBsZSAgICAgICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAp8IGAlYWAgICAgICB8IEFiYnJldmlhdGVkIHdlZWtkYXkgbmFtZS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IFN1biwgTW9uLCAuLi4gICAgICAgICAgICB8CnwgYCVBYCAgICAgIHwgRnVsbCB3ZWVrZGF5IG5hbWUuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgU3VuZGF5LCBNb25kYXksIC4uLiAgICAgIHwKfCBgJXdgICAgICAgfCBXZWVrZGF5IGFzIGEgZGVjaW1hbCBudW1iZXIuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAwLCAxLCAuLi4sIDYgICAgICAgICAgICAgfAp8IGAlV2AgICAgICB8IFdlZWsgbnVtYmVyIG9mIHRoZSB5ZWFyIChNb25kYXkgYXMgdGhlIGZpcnN0IGRheSBvZiB0aGUgd2VlaykuIEFsbCBkYXlzIGluIGEgbmV3IHllYXIgcHJlY2VkaW5nIHRoZSBmaXJzdCBNb25kYXkgYXJlIGNvbnNpZGVyZWQgdG8gYmUgaW4gd2VlayAwLiB8IDAwLCAwMSwgLi4uLCA1MyAgICAgICAgICB8CnwgYCVVYCAgICAgIHwgV2VlayBudW1iZXIgb2YgdGhlIHllYXIgKFN1bmRheSBhcyB0aGUgZmlyc3QgZGF5IG9mIHRoZSB3ZWVrKS4gQWxsIGRheXMgaW4gYSBuZXcgeWVhciBwcmVjZWRpbmcgdGhlIGZpcnN0IFN1bmRheSBhcmUgY29uc2lkZXJlZCB0byBiZSBpbiB3ZWVrIDAuIHwgMDAsIDAxLCAuLi4sIDUzICAgICAgICAgIHwKCiMjIyBEYXkKCnwgRGlyZWN0aXZlIHwgTWVhbmluZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgRXhhbXBsZSAgICAgICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAp8IGAlZGAgICAgICB8IERheSBvZiB0aGUgbW9udGggYXMgYSB6ZXJvLXBhZGRlZCBkZWNpbWFsLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDAxLCAwMiwgLi4uLCAzMSAgICAgICAgICB8CnwgYCUtZGAgICAgIHwgRGF5IG9mIHRoZSBtb250aCBhcyBhIGRlY2ltYWwgbnVtYmVyLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMSwgMiwgLi4uLCAzMSAgICAgICAgICAgIHwKfCBgJWpgICAgICAgfCBEYXkgb2YgdGhlIHllYXIgYXMgYSB6ZXJvLXBhZGRlZCBkZWNpbWFsIG51bWJlci4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAwMDEsIDAwMiwgLi4uLCAzNjYgICAgICAgfAp8IGAlLWpgICAgICB8IERheSBvZiB0aGUgeWVhciBhcyBhIGRlY2ltYWwgbnVtYmVyLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDEsIDIsIC4uLiwgMzY2ICAgICAgICAgICB8CgoKIyMjIE1vbnRoCgp8IERpcmVjdGl2ZSB8IE1lYW5pbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEV4YW1wbGUgICAgICAgICAgICAgICAgICB8CnwtLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBgJWJgICAgICAgfCBBYmJyZXZpYXRlZCBtb250aCBuYW1lLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBKYW4sIEZlYiwgLi4uLCBEZWMgICAgICAgfAp8IGAlQmAgICAgICB8IEZ1bGwgbW9udGggbmFtZS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEphbnVhcnksIEZlYnJ1YXJ5LCAuLi4gICB8CnwgYCVtYCAgICAgIHwgTW9udGggYXMgYSB6ZXJvLXBhZGRlZCBkZWNpbWFsIG51bWJlci4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMDEsIDAyLCAuLi4sIDEyICAgICAgICAgIHwKfCBgJS1tYCAgICAgfCBNb250aCBhcyBhIGRlY2ltYWwgbnVtYmVyLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAxLCAyLCAuLi4sIDEyICAgICAgICAgICAgfAoKIyMjIFllYXIKCnwgRGlyZWN0aXZlIHwgTWVhbmluZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgRXhhbXBsZSAgICAgICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAp8IGAleWAgICAgICB8IFllYXIgd2l0aG91dCBjZW50dXJ5IGFzIGEgemVyby1wYWRkZWQgZGVjaW1hbCBudW1iZXIuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDAwLCAwMSwgLi4uLCA5OSAgICAgICAgICB8CnwgYCUteWAgICAgIHwgWWVhciB3aXRob3V0IGNlbnR1cnkgYXMgYSBkZWNpbWFsIG51bWJlci4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMCwgMSwgLi4uLCA5OSAgICAgICAgICAgIHwKfCBgJVlgICAgICAgfCBZZWFyIHdpdGggY2VudHVyeSBhcyBhIGRlY2ltYWwgbnVtYmVyLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAyMDEzLCAyMDE5IGV0Yy4gICAgICAgICAgfAoKIyMjIEhvdXIKCnwgRGlyZWN0aXZlIHwgTWVhbmluZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgRXhhbXBsZSAgICAgICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAp8IGAlSGAgICAgICB8IEhvdXIgKDI0LWhvdXIgY2xvY2spIGFzIGEgemVyby1wYWRkZWQgZGVjaW1hbCBudW1iZXIuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDAwLCAwMSwgLi4uLCAyMyAgICAgICAgICB8CnwgYCUtSGAgICAgIHwgSG91ciAoMjQtaG91ciBjbG9jaykgYXMgYSBkZWNpbWFsIG51bWJlci4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMCwgMSwgLi4uLCAyMyAgICAgICAgICAgIHwKfCBgJUlgICAgICAgfCBIb3VyICgxMi1ob3VyIGNsb2NrKSBhcyBhIHplcm8tcGFkZGVkIGRlY2ltYWwgbnVtYmVyLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAwMSwgMDIsIC4uLiwgMTIgICAgICAgICAgfAp8IGAlLUlgICAgICB8IEhvdXIgKDEyLWhvdXIgY2xvY2spIGFzIGEgZGVjaW1hbCBudW1iZXIuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDEsIDIsIC4uLiAxMiAgICAgICAgICAgICB8CnwgYCVwYCAgICAgIHwgTG9jYWxl4oCZcyBBTSBvciBQTS4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCBBTSwgUE0gICAgICAgICAgICAgICAgICAgfAoKIyMjIE1pbnV0ZXMKCnwgRGlyZWN0aXZlIHwgTWVhbmluZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgRXhhbXBsZSAgICAgICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAp8IGAlTWAgICAgICB8IE1pbnV0ZSBhcyBhIHplcm8tcGFkZGVkIGRlY2ltYWwgbnVtYmVyLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDAwLCAwMSwgLi4uLCA1OSAgICAgICAgICB8CnwgYCUtTWAgICAgIHwgTWludXRlIGFzIGEgZGVjaW1hbCBudW1iZXIuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMCwgMSwgLi4uLCA1OSAgICAgICAgICAgIHwKCiMjIyBTZWNvbmRzCgp8IERpcmVjdGl2ZSB8IE1lYW5pbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEV4YW1wbGUgICAgICAgICAgICAgICAgICB8CnwtLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBgJVNgICAgICAgfCBTZWNvbmQgYXMgYSB6ZXJvLXBhZGRlZCBkZWNpbWFsIG51bWJlci4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAwMCwgMDEsIC4uLiwgNTkgICAgICAgICAgfAp8IGAlLVNgICAgICB8IFNlY29uZCBhcyBhIGRlY2ltYWwgbnVtYmVyLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IDAsIDEsIC4uLiwgNTkgICAgICAgICAgICB8CnwgYCVmYCAgICAgIHwgTWljcm9zZWNvbmQgYXMgYSBkZWNpbWFsIG51bWJlciwgemVyby1wYWRkZWQgb24gdGhlIGxlZnQuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMDAwMDAwIC0gOTk5OTk5ICAgICAgICAgIHwKCiMjIyBUaW1lIFpvbmUKCnwgRGlyZWN0aXZlIHwgTWVhbmluZyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgRXhhbXBsZSAgICAgICAgICAgICAgICAgIHwKfC0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAp8IGAlemAgICAgICB8IFVUQyBvZmZzZXQgaW4gdGhlIGZvcm0gK0hITU0gb3IgLUhITU0uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8ICAgICAgICAgICAgICAgICAgICAgICAgICB8CnwgYCVaYCAgICAgIHwgVGltZSB6b25lIG5hbWUuICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgICAgICAgICAgICAgICAgICAgICAgICAgIHwKCiMjIyBPdmVyYWxsIFJlcHJlc2VudGF0aW9uCgp8IERpcmVjdGl2ZSB8IE1lYW5pbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IEV4YW1wbGUgICAgICAgICAgICAgICAgICB8CnwtLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLXwKfCBgJWNgICAgICAgfCBMb2NhbGXigJlzIGFwcHJvcHJpYXRlIGRhdGUgYW5kIHRpbWUgcmVwcmVzZW50YXRpb24uICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8IE1vbiBTZXAgMzAgMDc6MDY6MDUgMjAxMyB8CnwgYCV4YCAgICAgIHwgTG9jYWxl4oCZcyBhcHByb3ByaWF0ZSBkYXRlIHJlcHJlc2VudGF0aW9uLiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAwOS8zMC8xMyAgICAgICAgICAgICAgICAgfAp8IGAlWGAgICAgICB8IExvY2FsZeKAmXMgYXBwcm9wcmlhdGUgdGltZSByZXByZXNlbnRhdGlvbi4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHwgMDc6MDY6MDUgICAgICAgICAgICAgICAgIHwKfCBgJSVgICAgICAgfCBBIGxpdGVyYWwgJyUnIGNoYXJhY3Rlci4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfCAlICAgICAgICAgICAgICAgICAgICAgICAgfA==
+# Python Date Time String Format
+
+## Introduction
+
+Date and time are two of the most useful yet confusing things in programming life. Date time storage and retrieval required a common well-decided protocol. Timezone conversion is also one of the most challenging tasks. That's why while working with Date and Time, developers should be extra curious. When it comes to working with date and time, Python's `datetime` library is the most reliable one. The **Datetime** library tries to solve all the problems to a large extent. So that's why developers love to use it.
+
+While creating a user-oriented application, one of the most common tasks is to create a well-formatted Date-time string. Example: `Friday, 7 October 2022`. 
+
+Another useful task is to convert the Date-time string into a [`datetime object`](https://docs.python.org/3/library/datetime.html) so that we can use that object with the rest of the program.
+
+## Datetime object
+
+Python's Datetime Object is an object which stores information on a particular date and time. It stores `day`, `month`, `year`, `hour`, `minute`, `second`, and `timezone` information as parameters. The object has various methods to do almost everything possible.
+
+The scope of this blog is the formatting of the date-time object, but not the description of the object itself. So if you want to know more, I am adding some references.
+
+- https://docs.python.org/3/library/datetime.html
+- https://www.geeksforgeeks.org/python-datetime-module/
+
+
+## Conversion of user-given String to Python's Datetime Object
+
+Often time, when users give a date or time input, they often use the specified format by the app. Some common formats are  `DD/MM/YYYY`, `MM/DD/YYYY`, and `HH:MM:SS`, like so. Now, it's the responsibility of the developer to convert the given string to a more useful object.
+
+To convert user given string to a datetime object we use **`strptime`**.
+
+### strptime
+
+```python
+from datetime import datetime
+
+datetime.strptime(date_string, format_string) -> Datetime
+```
+
+Here, `date_string` is the input from the user, and `format_string` is the expected format, in which the user has given the `date_string`. The `format_string` has the format specifiers, which will be used to extract the values from the `date_string`.
+
+Example:
+```python
+from datetime import datetime
+
+datetime.strptime("07/10/2022", "%d/%m/%Y")
+# datetime.datetime(2022, 10, 7, 0, 0)
+```
+
+### Explaination
+
+The date_string (`07/10/2022`) is mapped with the format string (`%d/%m/%Y`).
+
+| Date string value | Format string value | Explanation |
+|------------------|----------------------|-------------|
+| **07**                 |`%d`                            | `%d` is the format specifier for Day, so 07 is considered as the day |
+| **/**                    | `/`                               | Ignored, as not a format specifier |
+| **10**                 | `%m`                          | `%m` is the format specifier for Month, so 10 is considered as the Month |
+| **/**                    | `/`                               | Ignored, as not a format specifier |
+| **2022**             | `%Y`                          | `%Y` is the format specifier for Long Year, so 2022 is considered as the Year |
+
+See the Format list [below](#format-list).
+
+## Conversion Datetime Object to user-readable string
+
+Now that, you have a new `datetime object` and you have done some operations with that, you need to properly format it to string so that users can understand it very well. So now our task is to convert the object to a string.
+
+To convert a datetime object to a string, we use **`strftime`**.
+
+### strftime
+
+```python
+# Method 1
+datetime_object.strftime(format_string) -> formatted_string
+
+# Method 2
+from datetime import datetime
+datetime.strftime(Datetime, format_string) -> formatted_string
+```
+
+- In `Method 1`, we use `strftime` as a method call to the datetime object and pass the  format_string as a parameter.
+
+- In `Method 2`, we are directly calling the `strftime` as a function and passing the datetime object as the first param, and format_string as the second param.
+
+For both cases, it'll return a `formatted date and time string`.
+
+Example:
+```python
+from datetime import datetime
+
+datetime.now().strftime("%d/%m/%Y")
+# '07/10/2022' (current date in the above format)
+```
+
+## Format Specifiers List
+
+Below there are all format specifiers used while formatting. The format specifies are grouped by their types.
+
+### Weekday
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%a`      | Abbreviated weekday name.                                                                                                                        | Sun, Mon, ...            |
+| `%A`      | Full weekday name.                                                                                                                               | Sunday, Monday, ...      |
+| `%w`      | Weekday as a decimal number.                                                                                                                     | 0, 1, ..., 6             |
+| `%W`      | Week number of the year (Monday as the first day of the week). All days in a new year preceding the first Monday are considered to be in week 0. | 00, 01, ..., 53          |
+| `%U`      | Week number of the year (Sunday as the first day of the week). All days in a new year preceding the first Sunday are considered to be in week 0. | 00, 01, ..., 53          |
+
+### Day
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%d`      | Day of the month as a zero-padded decimal.                                                                                                       | 01, 02, ..., 31          |
+| `%-d`     | Day of the month as a decimal number.                                                                                                            | 1, 2, ..., 31            |
+| `%j`      | Day of the year as a zero-padded decimal number.                                                                                                 | 001, 002, ..., 366       |
+| `%-j`     | Day of the year as a decimal number.                                                                                                             | 1, 2, ..., 366           |
+
+
+### Month
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%b`      | Abbreviated month name.                                                                                                                          | Jan, Feb, ..., Dec       |
+| `%B`      | Full month name.                                                                                                                                 | January, February, ...   |
+| `%m`      | Month as a zero-padded decimal number.                                                                                                           | 01, 02, ..., 12          |
+| `%-m`     | Month as a decimal number.                                                                                                                       | 1, 2, ..., 12            |
+
+### Year
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%y`      | Year without century as a zero-padded decimal number.                                                                                            | 00, 01, ..., 99          |
+| `%-y`     | Year without century as a decimal number.                                                                                                        | 0, 1, ..., 99            |
+| `%Y`      | Year with century as a decimal number.                                                                                                           | 2013, 2019 etc.          |
+
+### Hour
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%H`      | Hour (24-hour clock) as a zero-padded decimal number.                                                                                            | 00, 01, ..., 23          |
+| `%-H`     | Hour (24-hour clock) as a decimal number.                                                                                                        | 0, 1, ..., 23            |
+| `%I`      | Hour (12-hour clock) as a zero-padded decimal number.                                                                                            | 01, 02, ..., 12          |
+| `%-I`     | Hour (12-hour clock) as a decimal number.                                                                                                        | 1, 2, ... 12             |
+| `%p`      | Locale’s AM or PM.                                                                                                                               | AM, PM                   |
+
+### Minutes
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%M`      | Minute as a zero-padded decimal number.                                                                                                          | 00, 01, ..., 59          |
+| `%-M`     | Minute as a decimal number.                                                                                                                      | 0, 1, ..., 59            |
+
+### Seconds
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%S`      | Second as a zero-padded decimal number.                                                                                                          | 00, 01, ..., 59          |
+| `%-S`     | Second as a decimal number.                                                                                                                      | 0, 1, ..., 59            |
+| `%f`      | Microsecond as a decimal number, zero-padded on the left.                                                                                        | 000000 - 999999          |
+
+### Time Zone
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%z`      | UTC offset in the form +HHMM or -HHMM.                                                                                                           |                          |
+| `%Z`      | Time zone name.                                                                                                                                  |                          |
+
+### Overall Representation
+
+| Directive | Meaning                                                                                                                                          | Example                  |
+|-----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| `%c`      | Locale’s appropriate date and time representation.                                                                                               | Mon Sep 30 07:06:05 2013 |
+| `%x`      | Locale’s appropriate date representation.                                                                                                        | 09/30/13                 |
+| `%X`      | Locale’s appropriate time representation.                                                                                                        | 07:06:05                 |
+| `%%`      | A literal '%' character.                                                                                                                         | %                        |
