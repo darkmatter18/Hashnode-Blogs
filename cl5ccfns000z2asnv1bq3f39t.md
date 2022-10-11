@@ -1,1 +1,8 @@
-IyMgSGVsbG8gV29ybGQKCkhlbGxvIENvbW11bml0eSwKCkkgYW0gQXJrYWRpcCBCaGF0dGFjaGFyeWEsIGEgU29mdHdhcmUgRGV2ZWxvcGVyIEVuZ2luZWVyIHdpdGgsIHBhc3Npb25hdGUgdG8gYnVpbGQgc29mdHdhcmUgdG8gcmV2b2x1dGlvbml6ZSB0aGUgaHVtYW4gY2FzZS4KCgoK
+# Hello World
+
+Hello Community,
+
+I am Arkadip Bhattacharya, a Software Developer Engineer with, passionate to build software to revolutionize the human case.
+
+
+
