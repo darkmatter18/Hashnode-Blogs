@@ -1,4 +1,4 @@
-## Understanding Pub/Sub
+# Understanding Pub/Sub Architecture
 
 ## Introduction
 Pub/Sub or Publish-Subscribe is a form of asynchronous service-to-service communication used in serverless and microservices architectures.
