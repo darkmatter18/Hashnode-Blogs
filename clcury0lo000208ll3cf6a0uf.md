@@ -6,7 +6,9 @@ Before jumping right into MySQL, let's understand some basic terminology and som
 
 # Data
 
-Data refers to facts or information that can be recorded and stored in various forms. It is often used to represent facts, concepts, or instructions in a structured or unstructured format. Data can take many different forms, including numbers, text, images, audio, and video. It can be stored in various formats, such as files, databases, or memory, and can be processed, analyzed, and visualized using a variety of tools and techniques. In computing, data can be processed by software or algorithms to produce useful information.
+Data refers to facts or information that can be recorded and stored in various forms. It is often used to represent **facts, concepts, or instructions** in a structured or unstructured format.
+
+Data can take many different forms, including numbers, **text**, **images**, **audio**, and **video**. It can be stored in various formats, such as **files**, **databases**, or **memory**, and can be processed, analyzed, and visualized using a variety of tools and techniques. In computing, data can be processed by software or algorithms to produce useful information.
 
 ## Types of Data
 
@@ -27,6 +29,8 @@ Unstructured data is often unformatted and can be found in various forms, such a
 # Database
 
 A database is a collection of data that is organized in a specific way, allowing for easy access, manipulation, and management of the information. Databases can be used to store and manage a wide variety of data, including financial information, customer information, inventory, and more.
+
+In simpler words, a Database is a container that allows us to store different types of data inside it. It's like a bookshelf, where we can organize our books. In the case of a Database, *the Book is the Data* and the *bookshelf is the Database.*
 
 ## Types of Database
 
@@ -50,6 +54,31 @@ These databases are designed to store and manage graph data, which is data that 
 
 There are some more types of databases like **Object-oriented databases** (*Zope Object Database (ZODB)* and *Objectivity/DB*) and **Time-series databases** (*InfluxDB* and *OpenTSDB*)
 
+# Purpose of a DBMS
+
+**D**ata**B**ase **M**anagement **S**ystem(DBMS) is a software or maybe a combination of multiple software that allows users to work with Data. As we already looked that, there are various types of databases to store various types of data.
+
+A DBMS actually helps us to store, retrieve, manipulate and delete data from the database.
+
+As we saw earlier, there are multiple types of databases that depend upon how your data looks like. To work with various types of Databases, we have various types of DBMS as well.
+
+The most common types of DMBS are:
+
+1. **R**elational **D**ata**B**ase **M**anagement **S**ystem(RDBMS), which works with relational databases and uses **SQL** (Structured Query Language) for querying and manipulating the data.
+    
+2. NoSQL **D**ata**B**ase **M**anagement **S**ystem(NoSQL - DBMS), which works with NoSQL or Document Databases and uses NoSQL functional querying and manipulating the data.
+    
+
+**MySQL** is a **R**elational **D**ata**B**ase **M**anagement **S**ystem(RDBMS), which works with SQL for querying. There are other RDBMS like PostgreSQL, MSSQL, and Oracle. But in this series, our main focus will be MySQL.
+
 ---
 
-In the next blog, we'll discuss MySQL and its features. Till then **Adios**. 👋
+# What's Next?
+
+In the upcoming articles, we will talk about MySQL.
+
+We start with MySQL introduction and how we can design a Database structure also known as Database schemas, and then how to use various types of SQL to store, retrieve, manipulate and delete data from the database.
+
+---
+
+Till then **Adios**. 👋
