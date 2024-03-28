@@ -3,6 +3,7 @@ title: "Git Workflow for Enterprise Application"
 datePublished: Fri Sep 29 2023 18:30:00 GMT+0000 (Coordinated Universal Time)
 cuid: cln935usv000509lgamzpb7ev
 slug: git-workflow
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1711625541599/8c434344-f6f5-425a-9661-b7c8f8686c0e.png
 tags: github, git, developer, devops
 
 ---
